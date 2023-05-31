@@ -13,15 +13,15 @@
 
 - 😄 Pronouns: **She**
 
-- 👨‍💻 All of my projects are available at [http://www.sarapoderoso.com/](http://www.sarapoderoso.com/)
+- 👨‍💻 All of my projects are available at [my web](http://www.sarapoderoso.com/)
 
-- 📝 I regularly write articles on [https://sarya-crazy.blogspot.com/](https://sarya-crazy.blogspot.com/)
+- 📝 I regularly write articles on [Pututunchst](https://sarya-crazy.blogspot.com/)
 
 - 📫 How to reach me **sara.poderoso@tomillo.org**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1GCTrRelSZqlQy55DsSD8haGIOpDDwosB/view?usp=drivesdk](https://drive.google.com/file/d/1GCTrRelSZqlQy55DsSD8haGIOpDDwosB/view?usp=drivesdk)
+- 📄 Know about my experiences [my resume](https://drive.google.com/file/d/1GCTrRelSZqlQy55DsSD8haGIOpDDwosB/view?usp=drivesdk)
 
-- ⚡ Fun fact **I HAVE THE GIFT OF NO OPPORTUNITY :P**
+- ⚡ Fun fact **I HAVE THE GIFT OF NO OPPORTUNITY**  :P **
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
