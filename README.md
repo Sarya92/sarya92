@@ -5,23 +5,23 @@
 
 - 🔭 Actualmente trabajo en Fundación Tomillo / I’m currently working on **Fundación Tomillo** 
 
-- 🌱 Actualmente estoy aprendiendi / I’m currently learning **Adobe XD, Figma and Blender.**
+- 🌱 Actualmente estoy aprendiendo Adobe XD, Figma y Blender / I’m currently learning **Adobe XD, Figma and Blender.**
 
-- 👯 Busco colaborar con-en / I’m looking to collaborate on **startups and medium and big companies.**
+- 👯 Busco colaborar con-en StartUps, medianas y grandes empresas / I’m looking to collaborate on **startups and medium and big companies.**
 
-- 🤝 Estoy buscando ayuda-apoyo con / I’m looking for help with **the IT work enviroment**
+- 🤝 Estoy buscando ayuda-apoyo con el entrno IT / I’m looking for help with **the IT work enviroment**
 
-- 😄 Pronombres / Pronouns: **She**
+- 😄 Pronombre Ella / Pronouns: **She**
 
-- 👨‍💻 Todos mis proyectos están disponibles en / All of my projects are available at [my web](http://www.sarapoderoso.com/)
+- 👨‍💻 Todos mis proyectos están disponibles en [mi página](http://www.sarapoderoso.com/) / All of my projects are available at [my web](http://www.sarapoderoso.com/)
 
-- 📝 Rgularmente publico en / I regularly write articles on [Pututunchst](https://sarya-crazy.blogspot.com/)
+- 📝 Regularmente publico en [Pututunchst](https://sarya-crazy.blogspot.com/) / I regularly write articles on [Pututunchst](https://sarya-crazy.blogspot.com/)
 
-- 📫 Puedes contactarme en / How to reach me **sara.poderoso@tomillo.org**
+- 📫 Puedes contactarme en **sara.poderoso@tomillo.org** / How to reach me **sara.poderoso@tomillo.org**
 
-- 📄 Conoce mi experiencia previa / Know about my experiences [my resume](https://drive.google.com/file/d/1GCTrRelSZqlQy55DsSD8haGIOpDDwosB/view?usp=drivesdk)
+- 📄 Conoce mi experiencia previa  [mi CV](https://drive.google.com/file/d/1GCTrRelSZqlQy55DsSD8haGIOpDDwosB/view?usp=drivesdk) / Know about my experiences [my resume](https://drive.google.com/file/d/1GCTrRelSZqlQy55DsSD8haGIOpDDwosB/view?usp=drivesdk)
 
-- ⚡ Hecho fivertido / Fun fact **I HAVE THE GIFT OF NO OPPORTUNITY**  :P 
+- ⚡ Hecho Divertido **TENGO EL DON DE LA OPORTUNIDAD**  :P  / Fun fact **I HAVE THE GIFT OF NO OPPORTUNITY**  :P 
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
