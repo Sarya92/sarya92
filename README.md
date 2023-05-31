@@ -1,33 +1,33 @@
-<h1 align="center">Hi there 👋, I'm Sara</h1>
-<h3 align="center">A Promotion Manager of a web development bootcamp with immersive technologies</h3>
+<h1 align="center">Hola! soy Sara / Hi there 👋, I'm Sara</h1>
+<h3 align="center">Responsable de Promoción de un Bootcamp de Desarrollo Web Full Stack con Tecnologías Inmersivas / A Promotion Manager of a web development full stack bootcamp with immersive technologies</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=sarya92&label=Profile%20views&color=0e75b6&style=flat" alt="sarya92" /> </p>
 
-- 🔭 I’m currently working on **Fundación Tomillo**
+- 🔭 Actualmente trabajo en Fundación Tomillo / I’m currently working on **Fundación Tomillo** 
 
-- 🌱 I’m currently learning **Adobe XD, Figma and Blender.**
+- 🌱 Actualmente estoy aprendiendi / I’m currently learning **Adobe XD, Figma and Blender.**
 
-- 👯 I’m looking to collaborate on **startups and medium and big companies.**
+- 👯 Busco colaborar con-en / I’m looking to collaborate on **startups and medium and big companies.**
 
-- 🤝 I’m looking for help with **the IT work enviroment**
+- 🤝 Estoy buscando ayuda-apoyo con / I’m looking for help with **the IT work enviroment**
 
-- 😄 Pronouns: **She**
+- 😄 Pronombres / Pronouns: **She**
 
-- 👨‍💻 All of my projects are available at [my web](http://www.sarapoderoso.com/)
+- 👨‍💻 Todos mis proyectos están disponibles en / All of my projects are available at [my web](http://www.sarapoderoso.com/)
 
-- 📝 I regularly write articles on [Pututunchst](https://sarya-crazy.blogspot.com/)
+- 📝 Rgularmente publico en / I regularly write articles on [Pututunchst](https://sarya-crazy.blogspot.com/)
 
-- 📫 How to reach me **sara.poderoso@tomillo.org**
+- 📫 Puedes contactarme en / How to reach me **sara.poderoso@tomillo.org**
 
-- 📄 Know about my experiences [my resume](https://drive.google.com/file/d/1GCTrRelSZqlQy55DsSD8haGIOpDDwosB/view?usp=drivesdk)
+- 📄 Conoce mi experiencia previa / Know about my experiences [my resume](https://drive.google.com/file/d/1GCTrRelSZqlQy55DsSD8haGIOpDDwosB/view?usp=drivesdk)
 
-- ⚡ Fun fact **I HAVE THE GIFT OF NO OPPORTUNITY**  :P **
+- ⚡ Hecho fivertido / Fun fact **I HAVE THE GIFT OF NO OPPORTUNITY**  :P 
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Conecta conmigo/Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/sarapodser" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sarapodser" height="30" width="40" /></a>
 <a href="https://dribbble.com/sarya92" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="sarya92" height="30" width="40" /></a>
@@ -35,7 +35,7 @@
 <a href="https://medium.com/@sarapoderoso" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@sarapoderoso" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Lenguajes y herramientas/Languages and Tools:</h3>
 <p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sarya92&show_icons=true&locale=en&layout=compact" alt="sarya92" /></p>
