@@ -19,7 +19,7 @@
 
 - 📫 Puedes contactarme en **sara.poderoso@tomillo.org** / How to reach me **sara.poderoso@tomillo.org**
 
-- 📄 Conoce mi experiencia previa  [mi CV](https://drive.google.com/file/d/1GCTrRelSZqlQy55DsSD8haGIOpDDwosB/view?usp=drivesdk) / Know about my experiences [my resume](https://drive.google.com/file/d/1GCTrRelSZqlQy55DsSD8haGIOpDDwosB/view?usp=drivesdk)
+- 📄 Conoce mi experiencia previa  [mi CV]() / Know about my experiences [my resume]()
 
 - ⚡ Hecho Divertido **TENGO EL DON DE LA OPORTUNIDAD**  :P  / Fun fact **I HAVE THE GIFT OF NO OPPORTUNITY**  :P 
 
