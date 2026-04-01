@@ -1,5 +1,5 @@
 <h1 align="center">Hola! soy Sara / Hi there 👋, I'm Sara</h1>
-<h3 align="center">Responsable de Promoción de un Bootcamp de Desarrollo Web Full Stack con Tecnologías Inmersivas / A Promotion Manager of a web development full stack bootcamp with immersive technologies</h3>
+<h3 align="center">Responsable de Promoción y Empleabilidad  de un Bootcamp de Desarrollo de IA y Análisis de Datos / A Promotion and Employability Manager of a AI Development and Data Analytics Bootcamp</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=sarya92&label=Profile%20views&color=0e75b6&style=flat" alt="sarya92" /> </p>
 
